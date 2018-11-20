@@ -8,7 +8,8 @@ const Bands = props => {
     <div>
       {bands}
     </div>
-  )
-}
+  );
 
-export default Bands
+};
+
+export default Bands;
